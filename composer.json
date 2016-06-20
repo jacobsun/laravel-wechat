@@ -4,7 +4,7 @@
     "keywords": ["wechat", "weixin","laravel", "sdk"],
     "repositories": [
         {
-            "type": "vcs",
+            "type": "git",
             "url": "https://github.com/jacobsun/wechat"
         }
     ],
